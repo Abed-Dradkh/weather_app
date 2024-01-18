@@ -1,0 +1,3 @@
+# http://api.weatherapi.com/v1/current.json?key=1cff1506c3254e2bab1155627232112&q=Jordan
+
+http://api.weatherapi.com/v1/forecast.json?key=1cff1506c3254e2bab1155627232112&q=Irbid&days=4
